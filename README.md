@@ -1,4 +1,4 @@
-# InvestmentViewML
+# ML Stonks
 
 **Machine-learning–augmented Black–Litterman portfolio engine**
 
