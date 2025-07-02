@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hq720.jpg" alt="Logo" width="300"/>
+</p>
+
 # ML Stonks
 
 **Machine-learning–augmented Black–Litterman portfolio engine**
